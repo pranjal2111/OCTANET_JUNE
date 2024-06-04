@@ -1,0 +1,1110 @@
+.tea-therapy,
+.tea-therapy * {
+  box-sizing: border-box;
+}
+.tea-therapy {
+  background: #fffffc;
+  height: 2511px;
+  position: relative;
+}
+.slider {
+  position: absolute;
+  inset: 0;
+}
+.slider-image {
+  width: 1448px;
+  height: 897px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.slider-text {
+  width: 739.08px;
+  height: 281.18px;
+  position: static;
+}
+.rectangle-57 {
+  background: rgba(210, 171, 107, 0.9);
+  width: 739.08px;
+  height: 281.18px;
+  position: absolute;
+  left: 10.06px;
+  top: 611.91px;
+}
+.ayurvedic-tea-from-tea-therapy {
+  color: #23282d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 45.82px;
+  top: 630.78px;
+  width: 678.18px;
+  height: 122.18px;
+}
+.frame-6 {
+  background: #883c35;
+  border-style: solid;
+  border-color: #883c35;
+  border-width: 2px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 194px;
+  height: 39px;
+  position: absolute;
+  left: 46px;
+  top: 838px;
+}
+.shop-now {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  position: relative;
+}
+.rectangle-58 {
+  background: linear-gradient(
+    180deg,
+    rgba(35, 40, 45, 0.75) 25%,
+    rgba(35, 40, 45, 0) 82.29166865348816%
+  );
+  width: 1448px;
+  height: 389px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.group-2 {
+  width: 16px;
+  height: 16px;
+  position: static;
+}
+.ellipse-1 {
+  background: rgba(241, 177, 74, 0.4);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 1397px;
+  top: 415px;
+}
+.ellipse-2 {
+  background: #d2ab6b;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 1399px;
+  top: 417px;
+}
+.ellipse-3 {
+  background: rgba(31, 32, 41, 0.4);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 1397px;
+  top: 435px;
+}
+.ellipse-4 {
+  background: rgba(31, 32, 41, 0.4);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 1397px;
+  top: 455px;
+}
+.ellipse-5 {
+  background: rgba(31, 32, 41, 0.4);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 1397px;
+  top: 475px;
+}
+.component-9 {
+  width: 106px;
+  height: 19px;
+  position: absolute;
+  left: 1260px;
+  top: 1620px;
+}
+.vector-1 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 1121px;
+  top: 1433px;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-49 {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 252, 0) 0%,
+      rgba(210, 171, 107, 0.04) 64.89582061767578%
+    ),
+    linear-gradient(to left, #fffffc, #fffffc);
+  width: 1448px;
+  height: 573px;
+  position: absolute;
+  left: 0px;
+  top: 1938px;
+}
+.group-28 {
+  width: 163.91px;
+  height: 34.08px;
+  position: static;
+}
+.iconfinder-facebook-01-01-3066961-1 {
+  width: 32.18px;
+  height: 34.08px;
+  position: absolute;
+  left: 1046.78px;
+  top: 2320.36px;
+  overflow: hidden;
+}
+.background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.facebook {
+  width: 31.4%;
+  height: 60.18%;
+  position: absolute;
+  right: 34.3%;
+  left: 34.3%;
+  bottom: 19.91%;
+  top: 19.91%;
+  overflow: visible;
+}
+.iconfinder-twitter-01-01-3066980-1 {
+  width: 32.18px;
+  height: 34.08px;
+  position: absolute;
+  left: 1134.27px;
+  top: 2320.35px;
+  overflow: hidden;
+}
+.background2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.twitter {
+  width: 57.64%;
+  height: 46.57%;
+  position: absolute;
+  right: 21.18%;
+  left: 21.18%;
+  bottom: 26.71%;
+  top: 26.71%;
+  overflow: visible;
+}
+.iconfinder-linkedin-01-01-3066989-1 {
+  width: 32.18px;
+  height: 34.08px;
+  position: absolute;
+  left: 1178.51px;
+  top: 2320.35px;
+  overflow: hidden;
+}
+.background3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.linkedin {
+  width: 46.59%;
+  height: 49.25%;
+  position: absolute;
+  right: 25.73%;
+  left: 27.68%;
+  bottom: 28.44%;
+  top: 22.32%;
+  overflow: visible;
+}
+.iconfinder-instagram-01-01-3066990-1 {
+  width: 32.18px;
+  height: 34.08px;
+  position: absolute;
+  left: 1090.02px;
+  top: 2320.35px;
+  overflow: hidden;
+}
+.background4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.instagram {
+  width: 54.52%;
+  height: 56.25%;
+  position: absolute;
+  right: 22.74%;
+  left: 22.74%;
+  bottom: 21.87%;
+  top: 21.87%;
+  overflow: visible;
+}
+.group-25 {
+  width: 256.42px;
+  height: 101.18px;
+  position: static;
+}
+.group-67 {
+  width: 205.13px;
+  height: 22.37px;
+  position: static;
+}
+.address {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 1071.92px;
+  top: 2034.92px;
+  width: 60.33px;
+  height: 22.37px;
+}
+.frame-62 {
+  width: 136.76px;
+  height: 4.26px;
+  position: absolute;
+  left: 1140.3px;
+  top: 2048.77px;
+  overflow: hidden;
+}
+.vector-12 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+.g-a-1-swaminarayan-complex-near-bhagwati-complex-fatehpura-paldi-ahmedabad-gujarat-380007 {
+  color: rgba(35, 40, 45, 0.7);
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: 1071.92px;
+  top: 2063.68px;
+  width: 231.28px;
+  height: 72.42px;
+}
+.frame {
+  width: 11.06px;
+  height: 17.04px;
+  position: absolute;
+  left: 1046.78px;
+  top: 2038.12px;
+  overflow: visible;
+}
+.group-70 {
+  width: 259.43px;
+  height: 45.8px;
+  position: static;
+}
+.contact {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 1074.94px;
+  top: 2143.56px;
+  width: 58.32px;
+  height: 22.37px;
+}
+.frame-63 {
+  width: 136.76px;
+  height: 4.26px;
+  position: absolute;
+  left: 1143.32px;
+  top: 2157.4px;
+  overflow: hidden;
+}
+.vector-13 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+._91-92770-00077 {
+  color: rgba(35, 40, 45, 0.7);
+  text-align: left;
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 600;
+  position: absolute;
+  left: 1074.94px;
+  top: 2171.25px;
+  width: 231.28px;
+  height: 18.11px;
+}
+.frame2 {
+  width: 16.09px;
+  height: 17.04px;
+  position: absolute;
+  left: 1046.78px;
+  top: 2148.88px;
+}
+.group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.group-71 {
+  width: 271.5px;
+  height: 48.99px;
+  position: static;
+}
+.group-672 {
+  width: 206.14px;
+  height: 22.37px;
+  position: static;
+}
+.email {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 1073.93px;
+  top: 2236.22px;
+  width: 43.24px;
+  height: 22.37px;
+}
+.frame-64 {
+  width: 136.76px;
+  height: 4.26px;
+  position: absolute;
+  left: 1143.32px;
+  top: 2250.06px;
+  overflow: hidden;
+}
+.vector-14 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+.customersupport-teatherapy-com {
+  color: rgba(35, 40, 45, 0.7);
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: 1073.93px;
+  top: 2267.1px;
+  width: 244.35px;
+  height: 18.11px;
+}
+.frame3 {
+  width: 16.94px;
+  height: 12.78px;
+  position: absolute;
+  left: 1046.78px;
+  top: 2241.54px;
+}
+.group-32 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.group-68 {
+  width: 201.62px;
+  height: 298.22px;
+  position: static;
+}
+.super-tea-wellness-tea-femme-tea-terms-conditions-fa-qs-return-policy-shipping-delivery-privacy-policy {
+  color: rgba(35, 40, 45, 0.7);
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 200.39%;
+  font-weight: 500;
+  position: absolute;
+  left: 136.03px;
+  top: 2098px;
+  width: 129.72px;
+  height: 238.57px;
+}
+.group-66 {
+  width: 201.62px;
+  height: 38.85px;
+  position: static;
+}
+.tea-terapy {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 133.4px;
+  top: 2038.36px;
+  width: 201.62px;
+  height: 38.85px;
+}
+.group-69 {
+  width: 197.71px;
+  height: 276.73px;
+  position: static;
+}
+.home-about-tea-therapy-history-of-ayurveda-wellness-cure-virgin-sourcing-organic-farming-therapy-life {
+  color: rgba(35, 40, 45, 0.7);
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 200.39%;
+  font-weight: 500;
+  position: absolute;
+  left: 594.52px;
+  top: 2097.71px;
+  width: 130.72px;
+  height: 208.75px;
+}
+.group-673 {
+  width: 197.55px;
+  height: 36.69px;
+  position: static;
+}
+.quick-links {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 594.68px;
+  top: 2029.72px;
+  width: 197.55px;
+  height: 36.69px;
+}
+.group-73 {
+  width: 831.59px;
+  height: 43.67px;
+  position: static;
+}
+._2021-tea-therapy-pvt-ltd-all-rights-reserved {
+  color: #d2ab6b;
+  text-align: center;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 506.33px;
+  top: 2449.14px;
+  width: 332.84px;
+  height: 17.04px;
+}
+.rectangle-72 {
+  background: #c4c4c4;
+  width: 831.59px;
+  height: 1.07px;
+  position: absolute;
+  left: 255.94px;
+  top: 2422.51px;
+}
+.group-77 {
+  position: absolute;
+  inset: 0;
+}
+.ayurveda-tea {
+  color: #fffffc;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 389px;
+  top: 42px;
+}
+.home {
+  color: #d2ab6b;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 311px;
+  top: 41px;
+  width: 46px;
+  height: 20px;
+}
+.our-story {
+  color: #fffffc;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 525px;
+  top: 42px;
+}
+.tea-ayurveda {
+  color: #fffffc;
+  text-align: left;
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 777px;
+  top: 42px;
+}
+.virgin-sourcing {
+  color: #fffffc;
+  text-align: left;
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 629px;
+  top: 42px;
+}
+.vector-15 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 561px;
+  top: 616px;
+  overflow: visible;
+}
+.type-of-ayurvedic-tea {
+  color: #d2ab6b;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 499px;
+  top: 1589px;
+}
+.vector-3 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 490px;
+  top: 1620px;
+  transform: translate(-136px, -1px);
+  overflow: visible;
+}
+.frame-5 {
+  width: 1448px;
+  height: 283px;
+  position: absolute;
+  left: 0px;
+  top: 1656px;
+  overflow: hidden;
+}
+.group-57 {
+  position: absolute;
+  inset: 0;
+}
+.group-45 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-20 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: -26px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.reviving-ginger-honey {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 22px;
+  top: 221px;
+  width: 155px;
+}
+.tea-bag-piromid-1 {
+  width: 128px;
+  height: 155.56px;
+  position: absolute;
+  left: 28px;
+  top: 45px;
+  object-fit: cover;
+}
+.group-43 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-22 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 506px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.morning-power {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 531px;
+  top: 221px;
+  width: 201px;
+}
+.single-chamber-envelope-tea-bags-1 {
+  width: 163px;
+  height: 142px;
+  position: absolute;
+  left: 545px;
+  top: 53px;
+  object-fit: cover;
+}
+.group-44 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-21 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 240px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.immun-tea {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 271px;
+  top: 221px;
+  width: 189px;
+}
+.single-chamber-envelope-tea-bags-new-1 {
+  width: 168px;
+  height: 142px;
+  position: absolute;
+  left: 280px;
+  top: 53px;
+  object-fit: cover;
+}
+.group-42 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-23 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 772px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.prana-ease {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 811px;
+  top: 221px;
+  width: 173px;
+}
+.pack-1-1 {
+  width: 163px;
+  height: 142px;
+  position: absolute;
+  left: 811px;
+  top: 53px;
+  object-fit: cover;
+}
+.group-41 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-24 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 1038px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.peppermint-boost {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1081px;
+  top: 221px;
+  width: 165px;
+}
+.double-chamber-string-1 {
+  width: 130px;
+  height: 157px;
+  position: absolute;
+  left: 1098px;
+  top: 45px;
+  object-fit: cover;
+}
+.group-40 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-25 {
+  background: #ffffff;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 1304px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.cleansing-peppermint {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1357px;
+  top: 221px;
+}
+.double-chamber-envelope-1 {
+  width: 164px;
+  height: 143px;
+  position: absolute;
+  left: 1358px;
+  top: 53px;
+  object-fit: cover;
+}
+.group-39 {
+  width: 250px;
+  height: 271px;
+  position: static;
+}
+.rectangle-26 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 250px;
+  height: 271px;
+  position: absolute;
+  left: 1570px;
+  top: 12px;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.07);
+}
+.heartly-soursop {
+  color: #23282d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1642px;
+  top: 230px;
+}
+.tag-tess-1 {
+  width: 121px;
+  height: 157px;
+  position: absolute;
+  left: 1635px;
+  top: 45px;
+  object-fit: cover;
+}
+.group-47 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-54 {
+  background: rgba(210, 171, 107, 0.7);
+  width: 72px;
+  height: 81px;
+  position: absolute;
+  left: 1368px;
+  top: 107px;
+  backdrop-filter: blur(1.5px);
+}
+.back-2 {
+  width: 16.2px;
+  height: 24px;
+  position: absolute;
+  left: 1412px;
+  top: 160px;
+  transform: translate(-16.2px, -24px);
+  overflow: visible;
+}
+.group-58 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-542 {
+  background: rgba(210, 171, 107, 0.7);
+  width: 72px;
+  height: 81px;
+  position: absolute;
+  left: 72px;
+  top: 188px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  backdrop-filter: blur(1.5px);
+}
+.back-22 {
+  width: 16.2px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 135px;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.vector-2 {
+  width: 135px;
+  height: 0px;
+  position: absolute;
+  left: 830px;
+  top: 1620px;
+  overflow: visible;
+}
+.group-82 {
+  position: absolute;
+  inset: 0;
+}
+.search-1 {
+  width: 37px;
+  height: 30px;
+  position: absolute;
+  left: 961px;
+  top: 31.46px;
+  overflow: visible;
+}
+.user-common {
+  width: 1.89%;
+  height: 0.56%;
+  position: absolute;
+  right: 23.57%;
+  left: 74.54%;
+  bottom: 98.59%;
+  top: 0.86%;
+  overflow: hidden;
+}
+.shopping-bag-2 {
+  width: 46px;
+  height: 30px;
+  position: absolute;
+  left: 1027px;
+  top: 32px;
+  overflow: visible;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 1126.22px;
+  top: 25.07px;
+  overflow: visible;
+}
+.group-80 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  width: 1448px;
+  height: 622px;
+  position: absolute;
+  left: 0px;
+  top: 937px;
+  object-fit: cover;
+}
+.group-64 {
+  width: 632.49px;
+  height: 337.49px;
+  position: static;
+}
+.rectangle-59 {
+  background: rgba(210, 171, 107, 0.9);
+  width: 632.49px;
+  height: 337.49px;
+  position: absolute;
+  left: 755.87px;
+  top: 1219.83px;
+}
+.rectangle-60 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 586.24px;
+  height: 319.83px;
+  position: absolute;
+  left: 779px;
+  top: 1228.29px;
+}
+.for-millennia-ancient-medical-practitioners-in-india-have-possessed-the-knowledge-to-heal-ailments-with-mystical-potions-made-of-leaves-roots-herbs-and-flowers-endemic-to-the-island-to-preserve-this-elusive-science-of-life-ayurveda-was-passed-down-from-generation-to-generation-through-wisdom-carefully-etched-on-to-palm-leaves {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 146.9%;
+  font-weight: 500;
+  position: absolute;
+  left: 813.44px;
+  top: 1331.48px;
+  width: 518.85px;
+  height: 100.29px;
+}
+.component-92 {
+  width: 106.59px;
+  height: 18.64px;
+  position: absolute;
+  left: 1231.11px;
+  top: 1504.4px;
+}
+.read-more {
+  color: #883c35;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 22.14%;
+  left: -0.94%;
+  width: 78.81%;
+  bottom: -1.93%;
+  top: 0%;
+  height: 101.93%;
+}
+.arrow-1 {
+  width: 17.92%;
+  height: 0%;
+  position: absolute;
+  right: 0%;
+  left: 82.08%;
+  bottom: 47.37%;
+  top: 52.63%;
+  transform: translate(0px, -7.36px);
+  overflow: visible;
+}
+.group-63 {
+  width: 518.87px;
+  height: 47.77px;
+  position: static;
+}
+.history-of-ayurveda {
+  color: #fffffc;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 917.47px;
+  top: 1256.77px;
+  width: 351.31px;
+  height: 47.77px;
+}
+.vector-16 {
+  width: 95.53px;
+  height: 0px;
+  position: absolute;
+  left: 1236.52px;
+  top: 1291.08px;
+  transform: translate(-1px, -1px);
+  overflow: visible;
+}
+.vector-17 {
+  width: 88.49px;
+  height: 0px;
+  position: absolute;
+  left: 901.67px;
+  top: 1291.08px;
+  transform: translate(-89.49px, -1px);
+  overflow: visible;
+}
+.rectangle-73 {
+  background: rgba(217, 217, 217, 0);
+  width: 1454px;
+  height: 831px;
+  position: absolute;
+  left: 0px;
+  top: 1523px;
+}
